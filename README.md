@@ -1,7 +1,6 @@
 > [!NOTE]
 > This repository has been replaced by its owner's
-> [GitHub profile repository]
-> (
+> [GitHub profile repository](
 >   ../../../../BrianJDrake/BrianJDrake
 > ).
 

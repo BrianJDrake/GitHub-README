@@ -1,3 +1,13 @@
+> [!NOTE]
+> This repository has been replaced by its owner's
+> [GitHub profile repository]
+> (
+>   ../../../../BrianJDrake/BrianJDrake
+> ).
+
+This repository was created before its owner learned that every GitHub profile
+has its own repository.
+
 # Copyright waiver
 
 Most works are [automatically covered by copyright](

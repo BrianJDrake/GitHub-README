@@ -4,7 +4,7 @@ Most works are [automatically covered by copyright](
 	https://alacc.org.au/faqs/#panel-137
 ),
 but
-this work is dedicated to the public domain
+all my GitHub contributions are dedicated to the public domain
 (no copyright)
 under
 the [CC0
